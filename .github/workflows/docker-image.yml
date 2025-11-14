@@ -21,7 +21,7 @@ jobs:
       run:  |
        uname -a
        cat /etc/issue
-       touch rpne.txt
+       touch rpnew.txt
    
     - name: Build the Docker image
       run: |
